@@ -1,0 +1,101 @@
+[
+ {
+    "titulo": "The Last of Us Part II",
+    "data_lancamento": "19/06/2020",
+    "genero": "Ação e aventura",
+    "plataforma": "PlayStation 4",
+    "classificacao_indicativa": "18+",
+    "desenvolvedor": "Naughty Dog",
+    "produtora": "Sony Interactive Entertainment"
+ },
+ 
+ {
+    "titulo": "Cyberpunk 2077",
+    "data_lancamento": "10/12/2020",
+    "genero": "RPG de ação",
+    "plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+    "classificacao_indicativa": "18+",
+    "desenvolvedor": "CD Projekt Red",
+    "produtora": "CD Projekt"
+ },
+
+ {
+    "titulo": "Animal Crossing: New Horizons",
+    "data_lancamento": "20/03/2020",
+    "genero": "Simulação",
+    "plataforma": "Nintendo Switch",
+    "classificacao_indicativa": "Livre",
+    "desenvolvedor": "Nintendo",
+    "produtora": "Nintendo"
+ },
+ 
+ {
+    "titulo": "Red Dead Redemption 2",
+    "data_lancamento": "26/10/2018",
+    "genero": "Ação e aventura",
+    "plataforma": "PlayStation 4, Xbox One",
+    "classificacao_indicativa": "18+",
+    "desenvolvedor": "Rockstar Games",
+    "produtora": "Rockstar Games"
+ },
+ 
+ {
+    "titulo": "Super Mario Odyssey",
+    "data_lancamento": "27/10/2017",
+    "genero": "Plataforma",
+    "plataforma": "Nintendo Switch",
+    "classificacao_indicativa": "Livre",
+    "desenvolvedor": "Nintendo",
+    "produtora": "Nintendo"
+ },
+ 
+ {
+    "titulo": "Horizon Zero Dawn",
+    "data_lancamento": "28/02/2017",
+    "genero": "Ação e aventura",
+    "plataforma": "PlayStation 4",
+    "classificacao_indicativa": "16+",
+    "desenvolvedor": "Guerrilla Games",
+    "produtora": "Sony Interactive Entertainment"
+ },
+ 
+ {
+    "titulo": "FIFA 22",
+    "data_lancamento": "01/10/2021",
+    "genero": "Esporte",
+    "plataforma": "PC, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S",
+    "classificacao_indicativa": "Livre",
+    "desenvolvedor": "EA Vancouver",
+    "produtora": "Electronic Arts"
+ },
+
+ {
+    "titulo": "The Legend of Zelda: Breath of the Wild",
+    "data_lancamento": "2017-03-03",
+    "genero": "Ação e Aventura",
+    "plataforma": "Nintendo Switch, Wii U",
+    "classificacao": "10+",
+    "desenvolvedor": "Nintendo",
+    "produtora": "Nintendo"
+  },
+  
+  {
+    "titulo": "Horizon Zero Dawn",
+    "data_lancamento": "2017-02-28",
+    "genero": "Ação e Aventura",
+    "plataforma": "PlayStation 4",
+    "classificacao": "16+",
+    "desenvolvedor": "Guerrilla Games",
+    "produtora": "Sony Interactive Entertainment"
+  },
+  
+  {
+    "titulo": "The Witcher 3: Wild Hunt",
+    "data_lancamento": "2015-05-19",
+    "genero": "RPG",
+    "plataforma": "Microsoft Windows, PlayStation 4, Xbox One, Nintendo Switch",
+    "classificacao": "18+",
+    "desenvolvedor": "CD Projekt Red",
+    "produtora": "CD Projekt"
+  }
+]

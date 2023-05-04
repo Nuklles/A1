@@ -1,0 +1,37 @@
+[
+ {
+    "produtora": "Electronic Arts",
+    "pais": "Estados Unidos",
+    "website": "https://www.ea.com/",
+    "instagram": "ea"
+ },
+
+ {
+    "produtora": "Rockstar Games",
+    "pais": "Estados Unidos",
+    "website": "https://www.rockstargames.com/",
+    "instagram": "rockstargames"
+  },
+
+  {
+    "produtora": "Naughty Dog",
+    "pais": "Estados Unidos",
+    "website": "https://www.naughtydog.com/",
+    "instagram": "naughty_dog_official"
+  },
+
+  {
+    "produtora": "Guerrilla Games",
+    "pais": "Holanda",
+    "website": "https://www.guerrilla-games.com/",
+    "instagram": "guerrillagames"
+  },
+
+  {
+    "produtora": "Nintendo",
+    "pais": "Japão",
+    "website": "https://www.nintendo.com/",
+    "instagram": "nintendo"
+  }
+
+]
