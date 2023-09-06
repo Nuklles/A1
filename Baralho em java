@@ -1,0 +1,54 @@
+ private List<Carta> baralho;
+
+    public BaralhoDeCartas() {
+        baralho = new ArrayList<>();
+        for (Naipe naipe : Naipe.values()) {
+            for (Valor valor : Valor.values()) {
+                baralho.add(new Carta(naipe, valor));
+            }
+        }
+        embaralhar();
+    }
+
+    public void embaralhar() {
+        Collections.shuffle(baralho);
+    }
+
+    public Carta distribuirCarta() {
+        if (baralho.isEmpty()) {
+            return null;
+        }
+        return baralho.remove(0);
+    }
+
+    public static void main(String[] args) {
+        BaralhoDeCartas baralho = new BaralhoDeCartas();
+        for (int i = 0; i < 5; i++) {
+            Carta carta = baralho.distribuirCarta();
+            System.out.println("Carta " + (i + 1) + ": " + carta);
+        }
+    }
+}
+
+enum Naipe {
+    ESPADAS, OUROS, COPAS, PAUS
+}
+
+enum Valor {
+    AS, DOIS, TRES, QUATRO, CINCO, SEIS, SETE, OITO, NOVE, DEZ, VALETE, DAMA, REI
+}
+
+class Carta {
+    private Naipe naipe;
+    private Valor valor;
+
+    public Carta(Naipe naipe, Valor valor) {
+        this.naipe = naipe;
+        this.valor = valor;
+    }
+
+    @Override
+    public String toString() {
+        return valor + " de " + naipe;
+    }
+}
